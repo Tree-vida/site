@@ -1,0 +1,17 @@
+TREE | PLANOS BRADESCO SAUDE
+ARQUIVOS PRONTOS PARA PUBLIC_HTML
+
+1. Entre no Gerenciador de Arquivos da sua hospedagem.
+2. Abra a pasta public_html.
+3. Antes de substituir o site, faca uma copia de seguranca dos arquivos atuais.
+4. Envie o ZIP para dentro de public_html e extraia-o nessa mesma pasta.
+5. Confirme que index.html e a pasta assets ficaram diretamente em public_html.
+6. Substitua os arquivos antigos quando a hospedagem solicitar confirmacao.
+7. Depois do envio, limpe o cache da hospedagem e do navegador.
+
+IMPORTANTE SOBRE O FORMULARIO
+O formulario atualmente mostra a confirmacao na tela, mas nao envia nem salva
+os dados preenchidos. Para receber os contatos, ele ainda precisa ser integrado
+a um e-mail, WhatsApp, CRM ou servico de formularios.
+
+Este ZIP contem somente os arquivos finais do site, prontos para hospedagem.
